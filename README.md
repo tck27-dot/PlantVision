@@ -1,5 +1,4 @@
-# PlantVision
-🌱 PlantCoach
+# 🌱 PlantVision
 
 PlantCoach is a full-stack mobile application that empowers users to diagnose the health of their tomato plants using machine learning. Users can take or upload a photo via a sleek Swift-based iOS frontend, which sends it to a FastAPI backend for real-time disease detection and care recommendations.
 
