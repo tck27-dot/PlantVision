@@ -97,3 +97,11 @@ struct ResultsScreen: View {
 }
 
 
+#Preview {
+    ResultsScreen(
+        result: "Tomato_Late_blight",
+        onReturnHome: {
+            print("Returned to Home")
+        }
+    )
+}
